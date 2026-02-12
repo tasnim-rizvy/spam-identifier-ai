@@ -18,6 +18,7 @@ data/
 
 !data/sample/
 !data/README.md
+!src/data
 
 __pycache__/
 *.py[cod]
